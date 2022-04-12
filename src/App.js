@@ -23,6 +23,7 @@ function App() {
            <Link to="/">Home</Link>
            <Link to="/work">Work</Link>
            <Link to="/about">About</Link>
+           <Link to="/about">service</Link>
          </nav>
        </header>
        
